@@ -1,0 +1,1 @@
+libcurl  https://windows.php.net/downloads/php-sdk/deps/vc11/x86/
